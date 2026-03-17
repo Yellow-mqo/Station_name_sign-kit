@@ -1,0 +1,21 @@
+{
+
+    "name": "se6",
+    
+    "model": {
+          "modelFile": "machine/se6.mqo",
+          "textures": [
+            ["front", "textures/machine/station_name_sign/Front.png"],
+            ["pillar", "textures/machine/station_name_sign/pillar.png"],
+            ["back", "textures/machine/station_name_sign/Back.png"],
+            ["sticker", "textures/machine/station_name_sign/sticker.png"]
+            ]
+      },
+      
+    "buttonTexture": "textures/machine/station_name_sign/button/button_default.png",
+    "machineType": "Light",
+    "smoothing": true,
+    "doCulling": true,
+    "accuracy": "LOW"
+    
+    }
